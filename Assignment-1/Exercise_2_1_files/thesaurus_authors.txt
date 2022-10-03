@@ -1,0 +1,10 @@
+label	replace by
+selvitopi, oguz	selvitopi, r. oguz
+manguoglu, murat	mangulu, murat
+demirci, gunduz vehbi	demirci, gunduz v.
+cambazoglu, b. barla	cambazoglu, berkant barla
+catalyuerek, uemit	catalyurek, umit v.
+catalyuerek, uemit v.	catalyurek, umit v.
+catalyurek, uemit v.	catalyurek, umit v.
+oktay, k. yasin	oktay, kerim yasin
+barla cambazoglu, b.	barla cambazoglu, b.
