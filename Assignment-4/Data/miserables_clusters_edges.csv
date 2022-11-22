@@ -1,0 +1,16 @@
+Source,Target,Type,Id,Label,timeset,Weight
+Gn_0,L_0,Undirected,154,,,10
+Gn_4,L_3,Undirected,155,,,8
+Gn_1,L_1,Undirected,156,,,9
+Gn_10,L_4,Undirected,157,,,9
+Gn_5,L_3,Undirected,158,,,10
+Gn_10,L_3,Undirected,159,,,2
+Gn_6,L_3,Undirected,160,,,3
+Gn_4,L_2,Undirected,161,,,6
+Gn_1,L_3,Undirected,162,,,1
+Gn_7,L_4,Undirected,163,,,1
+Gn_2,L_5,Undirected,164,,,2
+Gn_3,L_5,Undirected,165,,,12
+Gn_3,L_3,Undirected,166,,,1
+Gn_9,L_5,Undirected,167,,,2
+Gn_8,L_5,Undirected,168,,,1
